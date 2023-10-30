@@ -85,9 +85,3 @@ C) Navigation:
    
    [![Task_4](https://img.youtube.com/vi/ilkHnnRDjuo/0.jpg)](https://www.youtube.com/watch?v=ilkHnnRDjuo)
    
-###**TASK 5 and 6**:
-## Problem Statement
-The aim of both tasks was to write a scheduler algorithm to plan the order of jobs (delivery or return) such that the the earnings of eDrone is maximum in the given time limit.
-
-In these tasks we have to first deliver a parcel to its destination location and then search for a return parcel nearby and bring it back to warehouse. We cannot hardcode any coordinates in this task. Everthing was decided by the scheduler algorithm before the drone takes off. Our scheduler algorithm sorts the distance of delivery locations in descending order. This was our stratergy to gain maximum earning.
-   
